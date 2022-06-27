@@ -1,8 +1,8 @@
 # General
   * 通用设置增强插件/模块
-  * 有问题请至[Issue页面](https://github.com/VirgilClyne/iRingo/issues)反馈
-  * 如需及时了解更新说明，请订阅Telegram频道:[🍟 整点薯条](https://t.me/GetSomeFriesChannel)
-  * Telegram讨论组:[🍟 整点薯条 - 群组](https://t.me/GetSomeFries)
+  * 有问题请至 [Issue 页面](https://github.com/VirgilClyne/VirgilClyne/issues)反馈
+  * 如需及时了解更新说明，请订阅 Telegram 频道:[🍟 整点薯条](https://t.me/GetSomeFriesChannel)
+  * Telegram 讨论组:[🍟 整点薯条 - 群组](https://t.me/GetSomeFries)
 
 ---
 
@@ -57,9 +57,15 @@
       * Firebase Crashlytics: e.crashlytics.com
       * Windows NCSI (Network Connectivity Status Indicator)
         * *.msftconnecttest.com, *.msftncsi.com
+      * Other network availability detect
+        * Firefox / Some linux system depends on the DNS resolution result to determine the network availability.
+        * Refer: https://github.com/SukkaW/Surge/blob/master/Modules/sukka_fix_network_alert.sgmodule
+        * network-test.debian.org, detectportal.firefox.com, resolver1.opendns.com
       * Session Traversal Utilities for NAT / Simple Traversal of UDP Through NAT (STUN)
-        * *.*.*.srv.nintendo.net, *.*.stun.playstation.net, xbox.*.*.microsoft.com, *.*.xboxlive.com, stun.*
-      * QQ快速登录 本地连接: localhost.ptlogin2.qq.com
+        * *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, stun.*
+      * QQ快速登录 本地连接
+        * localhost.ptlogin2.qq.com
+        * localhost.sec.qq.com
       * NTP (Network Time Protocol) 网络时间协议服务
         * pool.ntp.org, *.pool.ntp.org, ntp.*.com, time.*.com, ntp?.*.com, time?.*.com, time.*.gov, time.*.edu.cn, *.ntp.org.cn
       * AD DS
@@ -76,9 +82,8 @@
 
 ## 安装链接
   * Loon:
+    * 需要 [2.1.10 (275)](https://t.me/LoonNews/445) 及以上版本
     * [General.plugin](./General.plugin?raw=true "🌐 General Settings Enhanced")
-    * Loon暂不支持直接使用此模块，请等待作者更新
-    * Loon不支持直接引用此模块中的`真实IP`部分，需要手动复制粘贴此内容至Loon-`配置`-`其他`-`高级设置`-`真实IP`
   * Quantumult X:
     * [General.qxrewrite](./General.qxrewrite?raw=true "🌐 General Settings Enhanced")
     * Quantumult X不支持直接此引用片段，需要手动复制粘贴此内容至配置文件中对应字段
