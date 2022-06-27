@@ -1,6 +1,6 @@
 # DNS
   * DNS 分流插件/模块
-  * 有问题请至 [Issue 页面](https://github.com/VirgilClyne/iRingo/issues) 反馈
+  * 有问题请至 [Issue 页面](https://github.com/VirgilClyne/VirgilClyne/issues) 反馈
   * 如需及时了解更新说明，请订阅 Telegram 频道:[🍟 整点薯条](https://t.me/GetSomeFriesChannel)
   * Telegram 讨论组:[🍟 整点薯条 - 群组](https://t.me/GetSomeFries)
 
@@ -42,6 +42,7 @@
 
 ## 安装链接
   * Loon:
+    * 需要 [2.1.13 (331)](https://t.me/LoonNews/535) 及以上版本
     * [DNS.plugin](./DNS.plugin?raw=true "🌐 DNS for Router and Companys")
   * Quantumult X:
     * [DNS.qxrewrite](./DNS.qxrewrite?raw=true "🌐 DNS for Router and Companys")
