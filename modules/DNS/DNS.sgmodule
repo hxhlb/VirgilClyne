@@ -77,30 +77,31 @@ networking.apple = server:https://doh.dns.apple.com/dns-query // Apple
 *.icloud.com = server:https://doh.dns.apple.com/dns-query // iCloud.com
 
 # > Alphabet
+# 我不合适用谷歌的dns 延迟相当高
 #*.google = server:https://dns.google/dns-query // Google
 #*.google.com = server:https://dns.google/dns-query // Google
 #*.google.com.?? = server:https://dns.google/dns-query // Google
 # *.goog = server:https://dns.google/dns-query // Google sites
-*.gstatic.com = server:https://dns.google/dns-query // Google 静态资源
-*.ggpht.com = server:https://dns.google/dns-query // Google Photos
-*.googleusercontent.com = server:https://dns.google/dns-query // Google 用户上传数据
-*.googleapis.com = server:https://dns.google/dns-query // Google APIs
-*.1e100.net = server:https://dns.google/dns-query // Google backbone
-*.youtube = server:https://dns.google/dns-query // Youtube sites
-*.youtube.com = server:https://dns.google/dns-query // Youtube
-*.ytimg.com = server:https://dns.google/dns-query // Youtube 图片
-*.googlevideo.com = server:https://dns.google/dns-query // Youtube Video
-*.gvt?.com = server:https://dns.google/dns-query // Google Video Thumbnails
-*.recaptcha.net = server:https://dns.google/dns-query // reCaptcha
-*.gmail.com = server:https://dns.google/dns-query // Gmail
-*.googlesource.com = server:https://dns.google/dns-query // Google Source
-*.googleadservices.com = server:https://dns.google/dns-query // Google AD Services
-*.doubleclick.net = server:https://dns.google/dns-query // DoubleClick
-*.adsense.com = server:https://dns.google/dns-query // AdSense
-*.adsensecustomsearchads.com = server:https://dns.google/dns-query // AdSense Custom Search Ads
-*.adsenseformobileapps.com = server:https://dns.google/dns-query // AdSense for mobile apps
-*.gle = server:https://dns.google/dns-query // Google shortened URLs
-goo.gl = server:https://dns.google/dns-query // Google URL Shortener
+#*.gstatic.com = server:https://dns.google/dns-query // Google 静态资源
+#*.ggpht.com = server:https://dns.google/dns-query // Google Photos
+#*.googleusercontent.com = server:https://dns.google/dns-query // Google 用户上传数据
+#*.googleapis.com = server:https://dns.google/dns-query // Google APIs
+#*.1e100.net = server:https://dns.google/dns-query // Google backbone
+#*.youtube = server:https://dns.google/dns-query // Youtube sites
+#*.youtube.com = server:https://dns.google/dns-query // Youtube
+#*.ytimg.com = server:https://dns.google/dns-query // Youtube 图片
+#*.googlevideo.com = server:https://dns.google/dns-query // Youtube Video
+#*.gvt?.com = server:https://dns.google/dns-query // Google Video Thumbnails
+#*.recaptcha.net = server:https://dns.google/dns-query // reCaptcha
+#*.gmail.com = server:https://dns.google/dns-query // Gmail
+#*.googlesource.com = server:https://dns.google/dns-query // Google Source
+#*.googleadservices.com = server:https://dns.google/dns-query // Google AD Services
+#*.doubleclick.net = server:https://dns.google/dns-query // DoubleClick
+#*.adsense.com = server:https://dns.google/dns-query // AdSense
+#*.adsensecustomsearchads.com = server:https://dns.google/dns-query // AdSense Custom Search Ads
+#*.adsenseformobileapps.com = server:https://dns.google/dns-query // AdSense for mobile apps
+#*.gle = server:https://dns.google/dns-query // Google shortened URLs
+#goo.gl = server:https://dns.google/dns-query // Google URL Shortener
 
 # > Cloudflare
 *.cloudflare.com = server:https://cloudflare-dns.com/dns-query // Cloudflare
