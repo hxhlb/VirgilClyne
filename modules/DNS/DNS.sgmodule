@@ -1,4 +1,4 @@
-#!name=🌐 DNS for Router and Companys
+#!name=🍌 DNS for Router and Companys
 #!desc=1.按企业/公司分流使用所属DNS进行解析 2.路由器地址使用系统DNS进行解析
 #!author=VirgilClyne
 #!homepage=https://github.com/VirgilClyne/VirgilClyne/blob/main/modules/DNS/README.md
@@ -77,9 +77,9 @@ networking.apple = server:https://doh.dns.apple.com/dns-query // Apple
 *.icloud.com = server:https://doh.dns.apple.com/dns-query // iCloud.com
 
 # > Alphabet
-*.google = server:https://dns.google/dns-query // Google
-*.google.com = server:https://dns.google/dns-query // Google
-*.google.com.?? = server:https://dns.google/dns-query // Google
+#*.google = server:https://dns.google/dns-query // Google
+#*.google.com = server:https://dns.google/dns-query // Google
+#*.google.com.?? = server:https://dns.google/dns-query // Google
 # *.goog = server:https://dns.google/dns-query // Google sites
 *.gstatic.com = server:https://dns.google/dns-query // Google 静态资源
 *.ggpht.com = server:https://dns.google/dns-query // Google Photos
