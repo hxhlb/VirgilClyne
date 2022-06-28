@@ -256,6 +256,14 @@ uuu.glass = server:https://a.passcloud.xyz/dns-query // iQZone
 *.iqyun.zone = server:https://a.passcloud.xyz/dns-query // iQZone
 *.ddns-pop.cyou = server:https://a.passcloud.xyz/dns-query // iQZone
 
+# > Goedtia
+*.jklmvb.xyz = server:https://a.passcloud.xyz/dns-query
+*.jgjgmcv.xyz = server:https://a.passcloud.xyz/dns-query
+*.lgjdnvb.xyz = server:https://a.passcloud.xyz/dns-query
+*.lxcvbmn.xyz = server:https://a.passcloud.xyz/dns-query
+*.lohkgl.xyz = server:https://a.passcloud.xyz/dns-query
+*.oungkl.xyz = server:https://a.passcloud.xyz/dns-query
+
 # > 🇨🇳 CN
 # CNNIC SDNS
 # *.gov.cn = server:1.2.4.8 // 中国政府网
