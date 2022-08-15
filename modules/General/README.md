@@ -26,17 +26,22 @@
         * 建行生活: yunbusiness.ccb.com
         * ~~闽政通APP: mztapp.fujian.gov.cn~~
         * ~~趣动Will Go: capi.wewillpro.com~~
+        * 沃小号: wxh.wo.cn
       * 跨端链接:
         * 印象笔记 插件: app.yinxiang.com
         * AdGuard 本地拦截劫持: injections.adguard.org
         * AdGuard 本地资源加载: local.adguard.org
         * Apple Web Authentication Modern 跨设备验证 本地连接: cable.auth.com
+        * Imaging Edge: 192.168.122.1/32
+        * 盯盯拍 (DDPai) 行车记录仪: 193.168.0.1/32
+        * Unifi Network Direct Connection: *.id.ui.direct
       * IPv4私有地址
         * 本地环回地址: 127.0.0.1/32
         * 专用网络地址: 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16
         * 链路本地地址: 169.254.0.0/16
         * 组播地址: 224.0.0.0/4
         * 保留地址: 240.0.0.0/4
+        * 受限广播地址: 255.255.255.255/32
         * NAT444: 100.64.0.0/10
       * IPv6私有地址
         * 链路本地地址: ::1/128, fe80::/10
@@ -63,6 +68,8 @@
         * network-test.debian.org, detectportal.firefox.com, resolver1.opendns.com
       * Session Traversal Utilities for NAT / Simple Traversal of UDP Through NAT (STUN)
         * *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, stun.*
+      * Twilio's Global Network Traversal Service, reliable STUN and TURN capabilities for WebRTC
+        * global.turn.twilio.com, global.stun.twilio.com
       * QQ快速登录 本地连接
         * localhost.ptlogin2.qq.com
         * localhost.sec.qq.com
@@ -72,7 +79,7 @@
         * PDC._msDCS.*.*, DC._msDCS.*.*, GC._msDCS.*.*
       * 移动认证登录: *.cmpassport.com
       * 电信天翼账号免密登录: id6.me, open.e.189.cn
-      * 联通沃账号一键登录: mdn.open.wo.cn, auth.wosms.cn
+      * 联通沃账号一键登录: mdn.open.wo.cn, opencloud.wostore.cn, auth.wosms.cn
       * 无忧行: *.jegotrip.com.cn
       * 誉隆信息 (?): *.icitymobile.mobi
 
