@@ -11,19 +11,20 @@
 
 ---
 ### 独立作品:
-* [通用设置增强插件/模块](https://github.com/VirgilClyne/VirgilClyne/tree/main/modules/General)
-* [DNS设置增强插件/模块](https://github.com/VirgilClyne/VirgilClyne/tree/main/modules/DNS)
-* [ASN分流插件/模块/规则集](https://github.com/VirgilClyne/VirgilClyne/tree/main/modules/ASN)
+* [🍟 GetSomeFries](https://github.com/VirgilClyne/GetSomeFries): 独立作品或实验性模块
+  * [通用设置增强插件/模块](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-通用)
+  * [DNS设置增强插件/模块](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS)
+  * [ASN分流插件/模块/规则集](https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-ASN)
 ### 公共组件:
-* [URL<=>JSON转换器](https://github.com/VirgilClyne/VirgilClyne/tree/main/function/URL)
+* [🍟 GetSomeFries](https://github.com/VirgilClyne/GetSomeFries): 独立作品或实验性模块
+  * [URL<=>JSON转换器](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/URL)
 ### 大型项目:
-* [iRingo](https://github.com/VirgilClyne/iRingo): 解锁完整的 Apple功能和集成服务
-* [Cloudflare](https://github.com/VirgilClyne/Cloudflare): Cloudflare相关模块
-* [DualSubs](https://github.com/DualSubs/DualSubs): 流媒体平台字幕增强及双语模块
+* [ iRingo](https://github.com/VirgilClyne/iRingo): 解锁完整的 Apple功能和集成服务
+* [☁️ Cloudflare](https://github.com/VirgilClyne/Cloudflare): Cloudflare相关模块
+* [🍿️ DualSubs](https://github.com/DualSubs/DualSubs): 流媒体平台字幕增强及双语模块
   * [WebVTT<=>JSON转换器](https://github.com/DualSubs/WebVTT)
   * [EXTM3U<=>JSON转换器](https://github.com/DualSubs/EXTM3U)
   * [XML<=>JSON转换器](https://github.com/DualSubs/XML)
-* [GetSomeFries](https://github.com/VirgilClyne/GetSomeFries): 其他实验性模块/作品
 
 <!--
 **VirgilClyne/VirgilClyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
